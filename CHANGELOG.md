@@ -1,3 +1,6 @@
+# 1.1.0
+* Add Kosovo
+
 # 1.0.0
 
 * Israeli names are now in English.
